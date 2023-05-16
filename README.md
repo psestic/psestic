@@ -23,11 +23,11 @@ I am currently expanding my skill set by delving into back-end development. Thro
 
 ### JavaScript Algorithms and Data Structures - freeCodeCamp Certification 
 
-- Palindrome Checker	
-- Roman Numeral Converter	
-- Caesars Cipher	
-- Telephone Number Validator	
-- Cash Register
+- [Palindrome Checker](https://github.com/psestic/fcc-palindrome_checker_js)	
+- [Roman Numeral Converter](https://github.com/psestic/fcc-roman_numeral_converter_js)	
+- [Caesars Cipher](https://github.com/psestic/fcc-caesers_cipher_js)	
+- [Telephone Number Validator](https://github.com/psestic/fcc-telephone_number_validator_js)	
+- [Cash Register](https://github.com/psestic/fcc-cash_register_js)	
 
 ### Relational Databases - freeCodeCamp Certification
 
