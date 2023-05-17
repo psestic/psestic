@@ -16,7 +16,7 @@ I am currently expanding my skill set by delving into back-end development. Thro
 - Bash
 - Git / GitHub
 - SQL (PostgreSQL)
-- JavaScript
+- JavaScript (Node.js & Express)
 - Python
 
 ## Projects
