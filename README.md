@@ -13,11 +13,16 @@ I am currently expanding my skill set by delving into back-end development. Thro
 
 ## Skills
 
+#### Intermediate level:
+- Python
+- SQL (PostgreSQL)
 - Bash
 - Git / GitHub
-- SQL (PostgreSQL)
-- JavaScript (Node.js & Express)
-- Python
+
+#### Basic level:
+- JavaScript
+- HTML
+- CSS
 
 ## Projects
 
