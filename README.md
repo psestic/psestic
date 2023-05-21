@@ -42,6 +42,12 @@ I am currently expanding my skill set by delving into back-end development. Thro
 - [Periodic Table Database](https://github.com/psestic/fcc-periodic_table_db)	
 - [Number Guessing Game](https://github.com/psestic/fcc-number_guessing_game_db)
 
+### Python ###
+
+Currently under construction...
+
+Come back for more soon!
+
 
 ## Contact
 
