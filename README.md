@@ -26,6 +26,15 @@ I am currently expanding my skill set by delving into back-end development. Thro
 
 ## Projects
 
+### Python
+
+This section is currently under construction. Come back for more soon!
+
+- Weather Forecast Web App ( [Live](https://psestic-python-weather-forecast-web-app-main-es8hec.streamlit.app/) | [Repository](https://github.com/psestic/python-weather_forecast_web_app) )
+
+
+Come back for more soon!
+
 ### JavaScript Algorithms and Data Structures - freeCodeCamp Certification 
 
 - [Palindrome Checker](https://github.com/psestic/fcc-palindrome_checker_js)	
@@ -41,12 +50,6 @@ I am currently expanding my skill set by delving into back-end development. Thro
 - [Salon Appointment Scheduler](https://github.com/psestic/fcc-salon_db)	
 - [Periodic Table Database](https://github.com/psestic/fcc-periodic_table_db)	
 - [Number Guessing Game](https://github.com/psestic/fcc-number_guessing_game_db)
-
-### Python ###
-
-Currently under construction...
-
-Come back for more soon!
 
 
 ## Contact
